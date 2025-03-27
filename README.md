@@ -5,7 +5,7 @@ This is an AI-powered image caption generator that allows users to upload images
 
 ## 🛠 Tech Stack
 - **Frontend:** React (TSX), Vite, Tailwind CSS
-- **Backend:** Node.js (if applicable)
+- **Backend:** Node.js
 - **AI API:** Hugging Face API
 - **Deployment:** Vercel
 
